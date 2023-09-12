@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sistemaservicos-site/static/css/main.95acd828.css",
+    "main.js": "/sistemaservicos-site/static/js/main.1ce3a272.js",
+    "static/js/787.2bc6ff28.chunk.js": "/sistemaservicos-site/static/js/787.2bc6ff28.chunk.js",
+    "index.html": "/sistemaservicos-site/index.html",
+    "main.95acd828.css.map": "/sistemaservicos-site/static/css/main.95acd828.css.map",
+    "main.1ce3a272.js.map": "/sistemaservicos-site/static/js/main.1ce3a272.js.map",
+    "787.2bc6ff28.chunk.js.map": "/sistemaservicos-site/static/js/787.2bc6ff28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95acd828.css",
+    "static/js/main.1ce3a272.js"
+  ]
+}
